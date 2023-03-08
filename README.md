@@ -33,8 +33,17 @@ Documentation guidelines and resources
             Exceptions: 
         """
 
+* Always follow pep-8 guidelines https://peps.python.org/pep-0008/
+
+* we can use auto pep-8 tools like `black` or `pylint` to help when follow the rules while coding.
+
+
+
 # FastAPI guidelines
 
+* Make sure to have a request and response models to make sure the pydantic models validate and raise a 422 without us specifically writing a request validation layer.
+
+* add tags in fastapi to seperate the endpoints as per the usecase.
 
 # Resources
 
