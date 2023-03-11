@@ -47,6 +47,6 @@ Documentation guidelines and resources
 
 # Resources
 
-* Auto doc string generator [autoDoc](!https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+* Auto doc string generator [autoDoc](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
-* Auto tagging [BetterCommenst](!https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+* Auto tagging [BetterCommenst](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
